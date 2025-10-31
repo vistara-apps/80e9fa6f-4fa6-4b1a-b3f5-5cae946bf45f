@@ -7,11 +7,11 @@
   "frame": {
     "version": "1",
     "name": "YieldGuard",
-    "homeUrl": "https://yieldguard.app",
+    "homeUrl": "https://app-946bf45f-77th.vercel.app",
     "iconUrl": "https://yieldguard.app/icon.png",
     "splashImageUrl": "https://yieldguard.app/splash.png",
     "splashBackgroundColor": "#0f1419",
-    "webhookUrl": "https://yieldguard.app/api/webhook",
+    "webhookUrl": "https://app-946bf45f-77th.vercel.app/api/webhook",
     "subtitle": "Safe DeFi yields",
     "description": "Sleep easy while your crypto earns — vetted vaults, zero guesswork. AI-powered risk scoring helps you find safe, high-yield DeFi opportunities.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://yieldguard.app/screenshot3.png"
     ],
     "primaryCategory": "finance",
-    "tags": ["defi", "yield", "vaults", "base", "safety"],
+    "tags": [
+      "defi",
+      "yield",
+      "vaults",
+      "base",
+      "safety"
+    ],
     "heroImageUrl": "https://yieldguard.app/hero.png",
     "tagline": "Sleep easy while your crypto earns",
     "ogTitle": "YieldGuard - Safe DeFi Yields",
